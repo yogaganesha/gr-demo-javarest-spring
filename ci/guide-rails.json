@@ -3,7 +3,7 @@
 		"version": 2
 	},
 	"application": {
-		"name": "javarest",
+		"name": "gr-demo-javarest-spring",
 		"language": "JAVA_GRADLE",
 		"artifact_store": {
 			"type": "s3",
