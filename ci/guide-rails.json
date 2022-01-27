@@ -150,7 +150,7 @@
 			},
 			{
 				"name": "gr.snyk.enabled.scantypes",
-				"value": "code",
+				"value": "container",
 				"type": "array"
 			}
 		],
