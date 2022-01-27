@@ -147,6 +147,11 @@
 				"name": "gr.helm.wait.timeout",
 				"value": "5m",
 				"type": "string"
+			},
+			{
+				"name": "gr.snyk.enabled.scantypes",
+				"value": "container",
+				"type": "array"
 			}
 		],
 		"deployment_files": [
