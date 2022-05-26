@@ -127,7 +127,7 @@
 						],
 						"docker_options": {
 							"docker_registry_alias_id": "51c90656-c776-4dcf-5355-2be8d18a7cba",
-							"repository": "dockerhub-proxy/library/google/apigee-runtime:1.5.10"
+							"repository": "dockerhub-proxy/google/apigee-runtime:1.5.10"
 						}
 					}
 				]
