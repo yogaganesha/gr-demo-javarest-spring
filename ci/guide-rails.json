@@ -36,7 +36,7 @@
 							"tags": [
 								"((application.version))"
 							],
-							"docker_registry_alias_id": "d77256d4-0784-4b44-7a74-400b5d1d7ba7"
+							"docker_registry_alias_id": "1a13b895-9568-4bf7-68ba-9a2184a5cee2"
 						}
 					]
 				},
@@ -126,7 +126,7 @@
 							}
 						],
 						"docker_options": {
-							"docker_registry_alias_id": "51c90656-c776-4dcf-5355-2be8d18a7cba",
+							"docker_registry_alias_id": "c2b3c4bd-4236-4f6b-4b8b-b7746e054600",
 							"repository": "dockerhub-proxy/google/apigee-runtime:1.5.10"
 						}
 					}
