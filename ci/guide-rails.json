@@ -29,7 +29,6 @@
 				"name": "Build",
 				"segment_type": "build",
 				"publish_attributes": {
-					"publish": true,
 					"docker_images": [
 						{
 							"repository": "guide-rails/((application.name))",
@@ -113,21 +112,6 @@
 						"docker_options": {
 							"docker_registry_alias_id": "c2b3c4bd-4236-4f6b-4b8b-b7746e054600",
 							"repository": "dockerhub-proxy/library/openjdk:11"
-						}
-					},
-					{
-						"name": "apigeeimage",
-						"steps": [
-							{
-								"name": "echo",
-								"definition": "echo",
-								"command": "echo \"pulled\"",
-								"properties": null
-							}
-						],
-						"docker_options": {
-							"docker_registry_alias_id": "c2b3c4bd-4236-4f6b-4b8b-b7746e054600",
-							"repository": "dockerhub-proxy/google/apigee-runtime:1.5.10"
 						}
 					}
 				]
