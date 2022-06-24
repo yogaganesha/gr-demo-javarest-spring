@@ -29,13 +29,13 @@
 				"name": "Build",
 				"segment_type": "build",
 				"publish_attributes": {
+					"publish": true,
 					"docker_images": [
 						{
 							"repository": "guide-rails/((application.name))",
 							"tags": [
 								"((application.version))"
-							],
-							"docker_registry_alias_id": "1a13b895-9568-4bf7-68ba-9a2184a5cee2"
+							]
 						}
 					]
 				},
