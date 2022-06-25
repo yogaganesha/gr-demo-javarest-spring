@@ -29,7 +29,6 @@
 				"name": "Build",
 				"segment_type": "build",
 				"publish_attributes": {
-					"publish": true,
 					"docker_images": [
 						{
 							"repository": "guide-rails/((application.name))",
