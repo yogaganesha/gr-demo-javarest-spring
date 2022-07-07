@@ -105,7 +105,7 @@
 							{
 								"name": "Build",
 								"definition": "Build",
-								"command": "./gradlew build --no-daemon\n\ncp build/test-results/test/TEST-com.calculi.springbootserver.math.MathControllerTest.xml test.xml\n\ncp build/reports/jacoco/test/jacocoTestReport.xml coverage.xml",
+								"command": "./gradlew build --no-daemon\n\ncp build/test-results/test/TEST-com.calculi.springbootserver.math.MathControllerTest.xml test.xml\n\ncp build/reports/jacoco/test/jacocoTestReport.xml coverage.xml\n",
 								"properties": null
 							}
 						],
