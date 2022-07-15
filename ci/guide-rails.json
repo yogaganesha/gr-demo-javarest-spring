@@ -142,6 +142,11 @@
 				"type": "string"
 			},
 			{
+				"name": "foo.bar",
+				"value": "foo",
+				"type": "string"
+			},
+			{
 				"name": "gr.helm.wait.timeout",
 				"value": "5m",
 				"type": "string"
